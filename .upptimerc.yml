@@ -13,6 +13,7 @@ sites:
     url: https://sgm-valdivia.bosquedigital.cl
   - name: CLUSTER
     url: http://cluster.bosquedigital.cl
+    check: "tcp-ping"
     port: 10000
 
 status-website:
