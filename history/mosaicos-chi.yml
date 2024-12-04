@@ -1,7 +1,7 @@
 url: https://mosaicos.bosquedigital.cl
-status: up
-code: 200
-responseTime: 349
-lastUpdated: 2024-12-03T23:30:55.205Z
+status: down
+code: 500
+responseTime: 139
+lastUpdated: 2024-12-04T14:50:39.039Z
 startTime: 2024-12-02T18:03:15.106Z
 generator: Upptime <https://github.com/upptime/upptime>
