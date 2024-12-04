@@ -4,18 +4,20 @@
     "url": "https://mosaicos.bosquedigital.cl",
     "icon": "https://icons.duckduckgo.com/ip3/mosaicos.bosquedigital.cl.ico",
     "slug": "mosaicos-chi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 464,
-    "timeDay": 349,
-    "timeWeek": 464,
-    "timeMonth": 464,
-    "timeYear": 464,
-    "dailyMinutesDown": {}
+    "time": 399,
+    "timeDay": 244,
+    "timeWeek": 399,
+    "timeMonth": 399,
+    "timeYear": 399,
+    "dailyMinutesDown": {
+      "2024-12-04": 0
+    }
   },
   {
     "name": "DRONE (CONST)",
@@ -88,7 +90,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-04": 190,
+      "2024-12-04": 891,
       "2024-12-03": 1440,
       "2024-12-02": 357
     }
