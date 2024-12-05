@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/mosaicos.bosquedigital.cl.ico",
     "slug": "mosaicos-chi",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 399,
-    "timeDay": 244,
-    "timeWeek": 399,
-    "timeMonth": 399,
-    "timeYear": 399,
+    "uptime": "78.40%",
+    "uptimeDay": "48.59%",
+    "uptimeWeek": "78.40%",
+    "uptimeMonth": "78.40%",
+    "uptimeYear": "78.40%",
+    "time": 384,
+    "timeDay": 225,
+    "timeWeek": 384,
+    "timeMonth": 384,
+    "timeYear": 384,
     "dailyMinutesDown": {
-      "2024-12-04": 0
+      "2024-12-05": 191,
+      "2024-12-04": 549
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 335,
-    "timeDay": 421,
-    "timeWeek": 335,
-    "timeMonth": 335,
-    "timeYear": 335,
+    "time": 372,
+    "timeDay": 523,
+    "timeWeek": 372,
+    "timeMonth": 372,
+    "timeYear": 372,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 438,
-    "timeDay": 501,
-    "timeWeek": 438,
-    "timeMonth": 438,
-    "timeYear": 438,
+    "time": 442,
+    "timeDay": 458,
+    "timeWeek": 442,
+    "timeMonth": 442,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 392,
-    "timeDay": 264,
-    "timeWeek": 392,
-    "timeMonth": 392,
-    "timeYear": 392,
+    "time": 383,
+    "timeDay": 347,
+    "timeWeek": 383,
+    "timeMonth": 383,
+    "timeYear": 383,
     "dailyMinutesDown": {}
   },
   {
@@ -90,7 +91,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-12-04": 891,
+      "2024-12-05": 191,
+      "2024-12-04": 1440,
       "2024-12-03": 1440,
       "2024-12-02": 357
     }
