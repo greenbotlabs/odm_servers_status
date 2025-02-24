@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mosaicos.bosquedigital.cl.ico",
     "slug": "mosaicos-chi",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.68%",
-    "uptimeYear": "94.74%",
+    "uptimeYear": "94.79%",
     "time": 427,
     "timeDay": 5163,
     "timeWeek": 1058,
@@ -73,7 +73,7 @@
     "url": "https://sgm-valdivia.bosquedigital.cl",
     "icon": "https://icons.duckduckgo.com/ip3/sgm-valdivia.bosquedigital.cl.ico",
     "slug": "sgm-valdivia-vald",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -84,7 +84,9 @@
     "timeWeek": 407,
     "timeMonth": 303,
     "timeYear": 326,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-24": 0
+    }
   },
   {
     "name": "CLUSTER",
@@ -103,7 +105,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-24": 43,
+      "2025-02-24": 1136,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
